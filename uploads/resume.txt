@@ -1,0 +1,55 @@
+SURADA HEMALATHA
+      Srikakulam,India       📞+91-7989317476          hema2007l22@gmail.com                    LinkedIn                    GitHub      
+OBJECTIVE
+Motivated Computer Science student with hands-on experience in Java, web development, and data structures. Completed multiple virtual internships in full stack development and data analytics. Passionate about building scalable applications and continuously learning new technologies. Seeking an entry-level role to apply technical skills and contribute to organizational growth.
+TECHNICAL SKILLS
+❖	Languages:  C, C++
+❖	Database : RDBMS, MongoDB,  Database Design
+❖	Core Skills: Data Structures, Algorithms, Object-Oriented Programming
+❖	Tools & Technologies: GitHub, Linux
+EDUCATION
+Computer Science Engineering (B.Tech)                                                                                                          2025 - 2028
+GVPCE(A), visakhapatnam  |  GPA:8.95
+Diploma in Computer Engineering                                                                                                                    2022 - 2025
+GPTW, Bheemili  |  Percentage: 96%
+EXPERIENCE
+Virtual Intern  -  Java Full Stack Developer Intern                                                                           Jan 2026 – Mar 2025
+•	Developed web applications using Java, Spring Boot, HTML, CSS, JavaScript
+•	Built and tested REST APIs for backend services
+•	Performed CRUD operations using MySQL/MongoDB
+________________________________________
+Virtual Intern – Data analytics automation (AICTE)                                                                        Oct 2025 – Dec 2025
+•	Developed and deployed automated data processing workflows using Python (Pandas, NumPy) to streamline analysis and reduce manual effort
+•	Performed comprehensive data cleaning, transformation, and validation on structured and unstructured datasets
+________________________________________ AI Intern – ML Developer Edygrad pvt.lmt                                                                                       Nov 2024 – May 2025
+•	Developed and implemented machine learning models for real-world datasets.
+•	Performed data preprocessing, feature engineering, and model evaluation.
+•	Built predictive models using Python, improving accuracy and performance.                                                                                                                      
+PROJECTS
+Smart Parking System (IoT + Web Application)
+•	Developed an IoT-based smart parking system to monitor parking slots in real-time.
+•	Used sensors (IR/Ultrasonic) to detect vehicle presence and update slot status.
+•	Built a web application to display available slots and enable booking.
+•	Integrated Arduino/NodeMCU with web backend and database (MySQL/MongoDB).
+
+ AI GitHub Analyzer (AI + Web Application)
+•	Developed an AI-based tool to analyze GitHub profiles and repositories.
+•	Extracted data like commits, languages, and activity using GitHub API.
+•	Technologies: Python/JavaScript, GitHub API, HTML, CSS, ML libraries
+
+CERTIFICATIONS
+•	AICTE Virtual Internships: Data Analytics Automation & Java Full Stack Development (2025)
+•	SheFi Scholar Program – Blockchain & Web3 (2026)
+•	Hackathons & Technical Workshops – Active Participant - GUVI HCL                                                         
+•	Web Development Certifications – Java, HTML, CSS, JavaScript – Cisco & Infosys
+ACHIEVEMENTS
+•	Participated in India AI Impact Buildathon 2026, building AI-based solutions in a competitive environment
+•	Selected as a SheFi Scholar for learning Web3, Blockchain, and DeFi technologies
+•	Actively involved in technical and team-based initiatives through AsCI and YfS
+LEADERSHIP
+•	Active Member, Association of Computer Intellectuals (AsCI)
+o	Participated in technical events, workshops, and collaborative activities
+•	Active Member, YfS
+o	Engaged in team-based initiatives and community activities
+
+

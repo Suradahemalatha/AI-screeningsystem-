@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Candidate Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>AI Recruiter Result</h1>
+
+    <h2>Match Score: {{ score }}%</h2>
+
+    <h3>Matched Skills</h3>
+    <ul>
+        {% for skill in matched_skills %}
+        <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Missing Skills</h3>
+    <ul>
+        {% for skill in missing_skills %}
+        <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Recommendation</h3>
+    <p>{{ recommendation }}</p>
+
+    <br>
+    <a href="/">Check Another Candidate</a>
+
+</div>
+
+</body>
+</html>

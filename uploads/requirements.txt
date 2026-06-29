@@ -1,0 +1,51 @@
+Job Title: Software Engineer
+
+Company: ABC Technologies
+
+Location: Hyderabad, India
+
+Job Type: Full-Time
+
+Job Description:
+
+We are looking for a passionate Software Engineer to join our development team. The candidate should have strong programming skills and the ability to build scalable web applications.
+
+Required Skills:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Flask or Django
+- Git
+- Data Structures and Algorithms
+- Object-Oriented Programming
+
+Preferred Skills:
+- Machine Learning
+- REST APIs
+- MongoDB
+- Docker
+- AWS
+- Linux
+
+Responsibilities:
+- Develop and maintain web applications.
+- Write clean and efficient code.
+- Collaborate with team members.
+- Debug and fix software issues.
+- Participate in code reviews.
+
+Experience:
+0–2 years
+
+Education:
+Bachelor's Degree in Computer Science, Information Technology, or related field.
+
+Soft Skills:
+- Good Communication
+- Problem Solving
+- Teamwork
+- Time Management
+- Quick Learner
